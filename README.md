@@ -8,6 +8,7 @@ A DAG, Directed acyclic graph implementation in golang.
 [![CircleCI](https://circleci.com/gh/goombaio/dag.svg?style=svg)](https://circleci.com/gh/goombaio/dag)
 [![codecov](https://codecov.io/gh/goombaio/dag/branch/master/graph/badge.svg)](https://codecov.io/gh/goombaio/dag)
 [![Go Report Card](https://goreportcard.com/badge/github.com/goombaio/dag)](https://goreportcard.com/report/github.com/goombaio/dag)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgoombaio%2Fdag.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgoombaio%2Fdag?ref=badge_shield)
 
 ## License
 
@@ -27,3 +28,6 @@ limitations under the License.
 
 [License-Url]: http://opensource.org/licenses/Apache
 [License-Image]: https://img.shields.io/badge/License-Apache-blue.svg
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgoombaio%2Fdag.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgoombaio%2Fdag?ref=badge_large)
